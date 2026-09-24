@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: d736949d873846f45bb500f3e705249a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9022687294875663445
+    second: MinersConstruction_Trainers_0
+  - first:
+      213: 3113615103895944992
+    second: MinersConstruction_Trainers_1
+  - first:
+      213: -4529133270810491522
+    second: MinersConstruction_Trainers_2
+  - first:
+      213: 2537720246769555403
+    second: MinersConstruction_Trainers_3
+  - first:
+      213: -3166571603352213111
+    second: MinersConstruction_Trainers_4
+  - first:
+      213: -1120862294019234508
+    second: MinersConstruction_Trainers_5
+  - first:
+      213: -6367147811592471571
+    second: MinersConstruction_Trainers_6
+  - first:
+      213: -4071060019042404386
+    second: MinersConstruction_Trainers_7
+  - first:
+      213: 6318458524041366360
+    second: MinersConstruction_Trainers_8
+  - first:
+      213: -2196954825998113300
+    second: MinersConstruction_Trainers_9
+  - first:
+      213: -6172273410974844039
+    second: MinersConstruction_Trainers_10
+  - first:
+      213: -6369352983752574284
+    second: MinersConstruction_Trainers_11
+  - first:
+      213: -3911845409306185380
+    second: MinersConstruction_Trainers_12
+  - first:
+      213: 9090741106438920072
+    second: MinersConstruction_Trainers_13
+  - first:
+      213: -2017368811546166084
+    second: MinersConstruction_Trainers_14
+  - first:
+      213: 39663266049583545
+    second: MinersConstruction_Trainers_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c7e7a5a46073d70800000000000000
+      internalID: 9022687294875663445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 192
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f320bb078c53b20800000000000000
+      internalID: 3113615103895944992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 191
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7500fc59494521c0800000000000000
+      internalID: -4529133270810491522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc714087e1bc73320800000000000000
+      internalID: 2537720246769555403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 129
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9892a5a67e31e04d0800000000000000
+      internalID: -3166571603352213111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435aad2aea5e170f0800000000000000
+      internalID: -1120862294019234508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 127
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debff99ccc853a7a0800000000000000
+      internalID: -6367147811592471571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 128
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7bea96b70b087c0800000000000000
+      internalID: -4071060019042404386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b468d0d8cafa750800000000000000
+      internalID: 6318458524041366360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 65
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce56dc8c939d281e0800000000000000
+      internalID: -2196954825998113300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b714ae80ea75aa0800000000000000
+      internalID: -6172273410974844039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba7a5225338b97a0800000000000000
+      internalID: -6369352983752574284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ff0a735556b9c0800000000000000
+      internalID: -3911845409306185380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887555a1fdcc82e70800000000000000
+      internalID: 9090741106438920072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcb6de11cdd004e0800000000000000
+      internalID: -2017368811546166084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinersConstruction_Trainers_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b96483c789ec8000800000000000000
+      internalID: 39663266049583545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MinersConstruction_Trainers_0: 9022687294875663445
+      MinersConstruction_Trainers_1: 3113615103895944992
+      MinersConstruction_Trainers_10: -6172273410974844039
+      MinersConstruction_Trainers_11: -6369352983752574284
+      MinersConstruction_Trainers_12: -3911845409306185380
+      MinersConstruction_Trainers_13: 9090741106438920072
+      MinersConstruction_Trainers_14: -2017368811546166084
+      MinersConstruction_Trainers_15: 39663266049583545
+      MinersConstruction_Trainers_2: -4529133270810491522
+      MinersConstruction_Trainers_3: 2537720246769555403
+      MinersConstruction_Trainers_4: -3166571603352213111
+      MinersConstruction_Trainers_5: -1120862294019234508
+      MinersConstruction_Trainers_6: -6367147811592471571
+      MinersConstruction_Trainers_7: -4071060019042404386
+      MinersConstruction_Trainers_8: 6318458524041366360
+      MinersConstruction_Trainers_9: -2196954825998113300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
