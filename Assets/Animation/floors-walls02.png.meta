@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -57,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -82,7 +82,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -111,12 +111,12 @@ TextureImporter:
       name: floors-walls02_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 25
-        width: 266
-        height: 124
+        x: 12
+        y: 86
+        width: 66
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -133,12 +133,12 @@ TextureImporter:
       name: floors-walls02_1
       rect:
         serializedVersion: 2
-        x: 143
-        y: 0
+        x: 78
+        y: 86
         width: 66
-        height: 17
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -155,12 +155,12 @@ TextureImporter:
       name: floors-walls02_2
       rect:
         serializedVersion: 2
-        x: 223
-        y: 0
-        width: 65
-        height: 17
+        x: 144
+        y: 86
+        width: 66
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -173,11 +173,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: floors-walls02_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 86
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad751e29bcbaf6419b26e1805a1ad1f
+      internalID: -494951616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors-walls02_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 25
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9665eaf47aa149449b1baf9d2b26b742
+      internalID: -197252123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors-walls02_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 25
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e578d7b75558fd468eccd1f59fe11ef
+      internalID: -1673785322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors-walls02_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c347428b3ba119468fa46824b374cae
+      internalID: 225740927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors-walls02_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 25
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902e1bf59f329794cbe711028e1ee5b2
+      internalID: -1713076152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f92f86cca146218499a806c94bb9da7a
     internalID: 0
     vertices: []
     indices: 
@@ -185,11 +295,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":66.0,"y":61.0},"gridSpriteOffset":{"x":12.0,"y":13.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       floors-walls02_0: -3396077855236364813
       floors-walls02_1: -3049603545913572713
       floors-walls02_2: 4012473307758874807
+      floors-walls02_3: -494951616
+      floors-walls02_4: -197252123
+      floors-walls02_5: -1673785322
+      floors-walls02_6: 225740927
+      floors-walls02_7: -1713076152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
