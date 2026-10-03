@@ -80,7 +80,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -199,10 +199,10 @@ TextureImporter:
       name: floors-walls02_4
       rect:
         serializedVersion: 2
-        x: 12
-        y: 25
-        width: 66
-        height: 61
+        x: 17
+        y: 33
+        width: 62
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,6 +283,116 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: floors-walls02_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c3bc6494acaa04a9da548f1c80ecc5
+      internalID: 564122489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors-walls02_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d69419306ebb4eb0237687b4d4ef1
+      internalID: -856910002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors-walls02_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 7
+        height: 16
+      alignment: 9
+      pivot: {x: 0.59469384, y: 0.51299787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969a5ac39153a7b4683ba8acb9fe6737
+      internalID: -903603063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors-walls02_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 10
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70762d0e19526a4f8b3c12bf87ae279
+      internalID: 356605323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors-walls02_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 4
+        height: 16
+      alignment: 9
+      pivot: {x: 0.54418945, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf6bfed1ce027a419073db6c92134f9
+      internalID: -1553295487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -301,12 +411,17 @@ TextureImporter:
     nameFileIdTable:
       floors-walls02_0: -3396077855236364813
       floors-walls02_1: -3049603545913572713
+      floors-walls02_10: -903603063
+      floors-walls02_11: 356605323
+      floors-walls02_12: -1553295487
       floors-walls02_2: 4012473307758874807
       floors-walls02_3: -494951616
       floors-walls02_4: -197252123
       floors-walls02_5: -1673785322
       floors-walls02_6: 225740927
       floors-walls02_7: -1713076152
+      floors-walls02_8: 564122489
+      floors-walls02_9: -856910002
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
