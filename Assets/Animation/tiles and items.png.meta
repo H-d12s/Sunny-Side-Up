@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 13
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -156,10 +156,10 @@ TextureImporter:
       name: tiles and items_0
       rect:
         serializedVersion: 2
-        x: 26
-        y: 110
-        width: 60
-        height: 68
+        x: 48
+        y: 151
+        width: 16
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,6 +548,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: tiles and items_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 127
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd5f1036467a443b0e566250e9c5e4
+      internalID: -87077992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -574,6 +596,7 @@ TextureImporter:
       tiles and items_15: -4904168860100965299
       tiles and items_16: -1888284147454591192
       tiles and items_17: -2782235304910512558
+      tiles and items_18: -87077992
       tiles and items_2: 7599242381519683127
       tiles and items_3: 3781793834639828547
       tiles and items_4: -3443168187813939429
