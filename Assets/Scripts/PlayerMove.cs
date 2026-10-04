@@ -7,6 +7,11 @@ public class PlayerMove : MonoBehaviour
 
     void Update()
     {
+        if (DialogueManager.Instance != null &&
+        DialogueManager.Instance.IsDialogueActive)
+        {
+            return;
+        }
         if (Keyboard.current == null)
         {
             return;

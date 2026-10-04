@@ -10,27 +10,24 @@ public class PlayerInteraction : MonoBehaviour
         detector = GetComponentInChildren<InteractionDetector>();
     }
 
-   private void Update()
-{
-    if (!Keyboard.current.eKey.wasPressedThisFrame)
-        return;
-
-    // If dialogue is currently open, close it
-    if (DialogueManager.Instance.IsDialogueActive)
+    private void Update()
     {
-        DialogueManager.Instance.CloseDialogue();
-        return;
-    }
+        if (!Keyboard.current.eKey.wasPressedThisFrame)
+            return;
 
-    // Otherwise, handle normal interaction
-    IInteractable interactable = detector.CurrentInteractable;
+        // Dialogue gets priority over normal interaction
+        if (DialogueManager.Instance.IsDialogueActive)
+        {
+            DialogueManager.Instance.HandleInput();
+            return;
+        }
 
-    if (interactable != null)
-    {
-        if (interactable.CanInteract())
+        // Normal E interaction
+        IInteractable interactable = detector.CurrentInteractable;
+
+        if (interactable != null && interactable.CanInteract())
         {
             interactable.Interact();
         }
     }
-}
 }

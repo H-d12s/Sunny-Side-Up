@@ -9,15 +9,14 @@ public class RoomExit : MonoBehaviour, IPlayerTrigger
     [Header("Requirements")]
     [SerializeField] private bool requiresJournal;
 
+    [Header("Blocked Dialogue")]
+    [SerializeField] private DialogueData blockedDialogue;
+
     public void OnPlayerEnter()
     {
         if (requiresJournal && !GameState.Instance.HasReadJournal)
         {
-            Debug.Log(
-                "I think I'm forgetting something. " +
-                "I should look around for a while longer."
-            );
-
+            DialogueManager.Instance.StartDialogue(blockedDialogue);
             return;
         }
 
