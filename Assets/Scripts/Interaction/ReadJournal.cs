@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ReadJournal: MonoBehaviour, IInteractable
+public class ReadJournal : MonoBehaviour, IInteractable
 {
     public string GetInteractionText()
     {
@@ -12,9 +12,10 @@ public class ReadJournal: MonoBehaviour, IInteractable
         return true;
     }
 
-   public void Interact()
-{
-    // Implementation for reading the journal
-    Debug.Log("Journal opened.");
-}
+    public void Interact()
+    {
+        Debug.Log("Journal opened.");
+
+        GameState.Instance.MarkJournalAsRead();
+    }
 }
